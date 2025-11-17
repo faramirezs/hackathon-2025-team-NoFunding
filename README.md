@@ -1,8 +1,6 @@
-<img width="1920" height="1080" alt="Small (3)" src="https://github.com/user-attachments/assets/05fe20db-d00d-43b2-ba47-083bd44be29b" />
-
 ***
 
-# Team NoFunding: Federated Learning for Privacy-Preserving Chest X-Ray Diagnosis
+# Federated Learning for Privacy-Preserving Chest X-Ray Diagnosis
 
 ## The Challenge
 
@@ -42,6 +40,7 @@ Team NoFunding proves that limited resources drive innovation. With no external 
 
 ---
 
+## Sources
 
 [1](http://arxiv.org/pdf/2410.12114.pdf)
 [2](https://f1000research.com/articles/5-672/v2/pdf)
