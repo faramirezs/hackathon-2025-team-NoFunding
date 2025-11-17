@@ -5,6 +5,7 @@
 ## The Challenge
 
 **Our model achieves 0.754 AUROC**
+This project was submitted as an entry to the **([Cold Start:] Distributed AI Hack Berlin)[https://luma.com/lsbpnuiu?tk=zDXU33]**.
 
 Healthcare institutions face a critical dilemma: they need large datasets to train accurate AI models for chest X-ray diagnosis, but patient privacy regulations prevent data sharing. This is particularly problematic when hospitals have different equipment and patient populations, creating heterogeneous, non-IID data distributions that traditional machine learning cannot handle effectively.
 
@@ -36,7 +37,7 @@ This work demonstrates that privacy-preserving collaborative AI in healthcare is
 
 The implications extend beyond chest X-rays. This framework applies to any medical imaging task where data privacy and heterogeneity are concerns: MRI analysis, CT scans, pathology slides, retinal imaging. By solving the non-IID problem with FedBN and demonstrating efficient training under severe resource constraints, we provide a blueprint for democratizing medical AI development across institutions of any size.
 
-Team NoFunding proves that limited resources drive innovation. With no external funding, we focused on fundamental algorithmic improvements rather than computational brute force, creating an efficient, scalable solution that works within the constraints faced by most healthcare institutions.
+We focused on fundamental algorithmic improvements rather than computational brute force, creating an efficient, scalable solution that works within the constraints faced by most healthcare institutions.
 
 ---
 
